@@ -2,12 +2,11 @@
 
 ###
 
-<h4 align="left">I'm a sophomore computer science student passionate about learning new technologies, and I'm eagerly looking forward to future opportunities and experiences. Currently studying at Misr International University (MIU), I'm excited to explore the diverse landscape of computer science and develop my skills.</h4>
+<img align="right" height="200" src="https://github.com/user-attachments/assets/6fb72059-b70e-4bc9-9d43-bf52c82a0945"  />
 
 ###
 
-<img align="right" height="150" src="https://github.com/user-attachments/assets/6fb72059-b70e-4bc9-9d43-bf52c82a0945" />
-
+<h4 align="left">I'm a sophomore computer science student passionate about learning new technologies, and I'm eagerly looking forward to future opportunities and experiences. Currently studying at Misr International University (MIU), I'm excited to explore the diverse landscape of computer science and develop my skills.</h4>
 
 ###
 
