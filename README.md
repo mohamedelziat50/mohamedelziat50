@@ -2,13 +2,15 @@
 
 ###
 
-<img align="right" height="200" src="https://github.com/user-attachments/assets/6fb72059-b70e-4bc9-9d43-bf52c82a0945"  />
+<img align="right" height="110" src="https://github.com/user-attachments/assets/6fb72059-b70e-4bc9-9d43-bf52c82a0945"  />
 
 ###
 
-<h4 align="left">I'm a sophomore computer science student passionate about learning new technologies, and I'm eagerly looking forward to future opportunities and experiences. Currently studying at Misr International University (MIU), I'm excited to explore the diverse landscape of computer science and develop my skills.</h4>
+<h3 align="left">I'm a sophomore computer science student passionate about learning new technologies, and I'm eagerly looking forward to future opportunities and experiences. Currently studying at Misr International University (MIU), I'm excited to explore the diverse landscape of computer science and develop my skills.</h3>
 
 ###
+
+<br clear="both">
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedelziat50&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
