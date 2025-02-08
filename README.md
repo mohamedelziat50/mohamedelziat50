@@ -58,6 +58,11 @@
 
 ###
 
+###
+
+<h2 align="left">GitHub Activity Snake 📈🐍</h2>
+
+###
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/mohamedelziat50/mohamedelziat50/output/snake.svg" alt="Snake animation" />
