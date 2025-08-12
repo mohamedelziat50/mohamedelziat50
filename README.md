@@ -2,11 +2,11 @@
 
 ###
 
-<img align="right" height="110" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif"  />
+<img align="right" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" height="110" width="110" />
 
 ###
 
-<h44 align="left">I'm a sophomore computer science student passionate about learning new technologies, and I'm eagerly looking forward to future opportunities and experiences. Currently studying at Misr International University (MIU), I'm excited to explore the diverse landscape of computer science and develop my skills.</h4>
+I'm a sophomore computer science student passionate about learning new technologies, and I'm eagerly looking forward to future opportunities and experiences. Currently studying at Misr International University (MIU), I'm excited to explore the diverse landscape of computer science and develop my skills.
 
 ###
 
