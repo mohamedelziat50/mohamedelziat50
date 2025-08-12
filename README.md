@@ -6,7 +6,7 @@
 
 ###
 
-I'm a sophomore computer science student passionate about learning new technologies, and I'm eagerly looking forward to future opportunities and experiences. Currently studying at Misr International University (MIU), I'm excited to explore the diverse landscape of computer science and develop my skills.
+<h4> I'm a sophomore computer science student passionate about learning new technologies, and I'm eagerly looking forward to future opportunities and experiences. Currently studying at Misr International University (MIU), I'm excited to explore the diverse landscape of computer science and develop my skills. </h4>
 
 ###
 
